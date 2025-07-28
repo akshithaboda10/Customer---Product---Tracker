@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit virtual environment
+streamlit_env/
+.env
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Excel/CSV temp
+~$*.xlsx
